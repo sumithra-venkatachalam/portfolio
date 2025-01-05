@@ -33,6 +33,9 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 import profile from './profile.jpg';
+import foodieapp from './foodieapp.png';
+import quizapp from './quizapp.png';
+import expenseapp from './expenseapp.png';
 
 export {
   logo,
@@ -66,4 +69,7 @@ export {
   jobit,
   tripguide,
   profile,
+  foodieapp,
+  quizapp,
+  expenseapp,
 };
